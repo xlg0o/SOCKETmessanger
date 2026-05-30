@@ -13,6 +13,7 @@ First of all, you have to **compile** it.
   **Linux:**
   
   git clone https://github.com/xlg0o/SOCKETmessanger/ 
+  
   g++ -o SOCKETmessanger main.cpp
 
 # Usage:
