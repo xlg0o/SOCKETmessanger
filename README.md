@@ -4,10 +4,11 @@ Created with C++ and Windows Sockets API (Winsock2).
 
 # Compiling:
 First of all, you have to **compile** it.
-  Windows (MSVC - Visual Studio):
+
+  **Windows** (MSVC - Visual Studio):
   cl /EHsc main.cpp /link ws2_32.lib
   
-  Linux:
+  **Linux:**
   git clone https://github.com/xlg0o/SOCKETmessanger/ 
   g++ -o SOCKETmessanger main.cpp
 
